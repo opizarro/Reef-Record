@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 Materials and Procedures.tex
+Assessment.tex
 Discussion.tex
 Comments and recommendations.tex
 results.tex
