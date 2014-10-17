@@ -1,7 +1,6 @@
 abstract.tex
 introduction.tex
 Materials and Procedures.tex
-figures/spiral1/Assessment.tex
 Discussion.tex
 Comments and recommendations.tex
 results.tex
