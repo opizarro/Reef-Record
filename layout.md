@@ -1,4 +1,5 @@
 abstract.tex
+State_of_the_art_visual__.tex
 introduction.tex
 Materials and Procedures.tex
 figures/spiral/spiral.svg
