@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 Materials and Procedures.tex
+figures/_DSC0053/_DSC0053.jpg
 figures/spiral/spiral.svg
 Assessment.tex
 Discussion.tex
