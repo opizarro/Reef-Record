@@ -1,10 +1,10 @@
 abstract.tex
 introduction.tex
 Materials and Procedures.tex
+figures/spiral/spiral.svg
 figures/_DSC0002/_DSC0002.jpg
 in_addition_the_imagery_and__.tex
 figures/_DSC0053/_DSC0053.jpg
-figures/spiral/spiral.svg
 Assessment.tex
 Discussion.tex
 Comments and recommendations.tex
