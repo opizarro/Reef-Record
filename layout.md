@@ -8,6 +8,7 @@ in_addition_the_imagery_and__.tex
 figures/_DSC0053/_DSC0053.jpg
 Assessment.tex
 figures/match_4_along/match_4_along.png
+figures/match_5_across/match_5_across.png
 Discussion.tex
 Comments and recommendations.tex
 results.tex
