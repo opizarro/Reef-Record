@@ -4,8 +4,8 @@ Materials and Procedures.tex
 figures/spiral/spiral.svg
 subsection_Materials_Materials_includes_expendible__.tex
 figures/_DSC0002/_DSC0002.jpg
-figures/_DSC0053/_DSC0053.jpg
 subsection_Procedures_A_stepwise_description__.tex
+figures/_DSC0053/_DSC0053.jpg
 Assessment.tex
 figures/match_4_along/match_4_along.png
 figures/match_5_across/match_5_across.png
