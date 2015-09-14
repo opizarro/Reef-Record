@@ -11,3 +11,4 @@ figures/match_4_along/match_4_along.png
 figures/match_5_across/match_5_across.png
 figures/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted.png
 Discussion.tex
+section_Comments_and_Recommendations_Real__.tex
