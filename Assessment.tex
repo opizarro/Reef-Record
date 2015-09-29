@@ -33,7 +33,7 @@ The time to perform a reef record is consistent, with slight variations dependin
 
 
 \subsection{Georeferencing}
-For shallow, clear water surveys (~4m or less), while the platform is near the surface it is possible to simultaneously acquire imagery of the bottom and GPS fixes. As long as one image has a GPS fix associated with it and the image overlaps with other images part of the images at survey altitude, the whole reconstruction will be georeferenced. Alternatively, any point of the survey (typically where the star picket is driven into the bottom) can be surveyed in and that location entered manually into the reconstruction.  
+For shallow, clear water surveys (~4m or less), while the platform is near the surface it is possible to simultaneously acquire imagery of the bottom and GPS fixes. As long as one image has a GPS fix associated with it and the image overlaps with other images part of the images at survey altitude, the whole reconstruction will be georeferenced. Alternatively, any point of the survey (typically where the star picket is driven into the bottom) can be surveyed in and that location entered manually into the reconstruction. Using a SLAM filter allows fusing multiple GPS fixes as the platform follows the spiral path, which improves the quality of the georeferencing by reducing the effects of noise and outliers present when operating near the air-water interface with waves.
 The fusion of depth and attitude ensures that the reconstruction is oriented properly and at the correct depth.
 
 \subsection{Visual survey quality}
