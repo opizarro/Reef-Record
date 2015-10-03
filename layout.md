@@ -14,5 +14,6 @@ figures/Screenshot 2015-09-29 19.28.13/Screenshot 2015-09-29 19.28.13.png
 figures/Screenshot 2015-09-29 19.28.40/Screenshot 2015-09-29 19.28.40.png
 subsection_Repeatability_Given_a_printout__.tex
 subsection_Derived_data_products_The__.tex
+figures/Screenshot 2015-10-03 12.15.47/Screenshot 2015-10-03 12.15.47.png
 Discussion.tex
 section_Comments_and_Recommendations_Real__.tex
