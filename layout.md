@@ -2,7 +2,6 @@ abstract.tex
 introduction.tex
 Materials and Procedures.tex
 figures/geometry - Drawing 1 illustrator mod/geometry - Drawing 1 illustrator mod.png
-figures/spiral/spiral.svg
 subsection_Materials_Materials_includes_expendible__.tex
 figures/_DSC0002/_DSC0002.jpg
 subsection_Procedures_A_stepwise_description__.tex
