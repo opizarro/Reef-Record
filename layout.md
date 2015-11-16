@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 section_Materials_and_Procedures_Provides__.tex
+figures/FOV_triangle mod/FOV_triangle mod.png
 Materials and Procedures.tex
 figures/geometry - Drawing 1 illustrator mod/geometry - Drawing 1 illustrator mod.png
 figures/spiral1/spiral1.png
