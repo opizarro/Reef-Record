@@ -1,6 +1,7 @@
 abstract.tex
 State_of_the_art_visual__.tex
 introduction.tex
+State_of_the_art_visual__1.tex
 section_Materials_and_Procedures_Provides__.tex
 figures/FOV_triangle mod/FOV_triangle mod.png
 Materials and Procedures.tex
