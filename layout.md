@@ -1,5 +1,4 @@
 abstract.tex
-State_of_the_art_visual__.tex
 introduction.tex
 test_section_State_of_the__.tex
 section_Materials_and_Procedures_label__.tex
