@@ -15,7 +15,7 @@ figures/match_5_across/match_5_across.png
 figures/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted.png
 figures/Screenshot 2015-09-29 19.28.13/Screenshot 2015-09-29 19.28.13.png
 figures/Screenshot 2015-09-29 19.28.40/Screenshot 2015-09-29 19.28.40.png
-subsection_Repeatability_Given_a_printout__.tex
+subsection_Repeatability_for_monitoring_purposes__.tex
 subsection_Derived_data_products_The__.tex
 figures/Screenshot 2015-10-03 12.15.47/Screenshot 2015-10-03 12.15.47.png
 Discussion.tex
