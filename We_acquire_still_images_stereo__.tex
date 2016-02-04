@@ -1,5 +1,14 @@
 We acquire still images (stereo pairs) at 2 Hz, providing ample overlap along track. Based on the 35 surveys from the May 2015 expedition, our configuration resulted in an average of 1853 stereo pairs (std dev 205.3), a maximum of 2255, and a minimum of 1557 images. The number of instances of overlap between image pairs found was on average 19286.3 (std dev 7098.1), with a maximum of 33168 and a minimum of 6194.  Each image overlaps with approximately 21 other stereo pairs. The variation in time and image overlap is attributable to the actual altitude and path followed on each survey. In the case of snorkeling on reef flats, tidal variations affect water depth which determines the imaging altitude and image footprint ( see Sec.~\ref{sec:MandP} and Fig.~\ref{fig:fov} ). Swell and currents acts as disturbances while swimming the spirals that affect swimming speed and the actual path followed (i.e. the line constrains motion away from the central pole but not towards it). 
 
+\begin{table} \label{tab:imageStats}
+    \begin{tabular}{|l|c|c|c|c|}
+        \hline              & Avg. & Std. Dev. & Max. & Min. \\
+        \hline Stereo pairs & 1853 & 205.3 & 2255 & 1557  \\ 
+        Image matches & 19286.3 & 7098.1 & 33168 & 6194  \\ 
+        Overlap per image & 21 & & & \\ 
+    \end{tabular} 
+\end{table}
+
 A secondary factor that can affect the number of image matches is the presence of caustics from the lensing effect of surface waves and ripples. In shallow water these are noticeable as fast moving bands of bright light. The effect is less pronounced early morning and late afternoon, when the sun is low. In general, a successful 3D reconstruction depends more on having enough water depth under the cameras than the position of the sun. However, strong banding will be apparent in the textured reconstruction and mosaics. Techniques that rely on the redundancy of video rates can significantly reduce these artifacts \cite{Gracias_2008}.
 
 %For our setup this resulted in a network of camera poses with approximately 1800 image pairs and 19000 links (relating two image pairs), each stereo pair overlaps approximately with 21 other stereo pairs, making for a well-connected photogrammetric network.
