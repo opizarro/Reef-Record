@@ -18,7 +18,6 @@ figures/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_del
 Using_the_estimated_path_we__.tex
 figures/Screenshot 2015-09-29 19.28.13/Screenshot 2015-09-29 19.28.13.png
 figures/Screenshot 2015-09-29 19.28.40/Screenshot 2015-09-29 19.28.40.png
-figures/Screen Shot 2016-02-04 at 11.31.14 PM/Screen Shot 2016-02-04 at 11.31.14 PM.png
 figures/six_reefrecords_samples_texture/six_reefrecords_samples_texture.png
 figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy.png
 subsection_Repeatability_for_monitoring_purposes__.tex
