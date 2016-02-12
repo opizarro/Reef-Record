@@ -21,6 +21,7 @@ figures/Screenshot 2015-09-29 19.28.40/Screenshot 2015-09-29 19.28.40.png
 figures/six_reefrecords_samples_texture1/six_reefrecords_samples_texture1.png
 figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy.png
 subsection_Repeatability_for_monitoring_purposes__.tex
+figures/sites_around_Lizard/sites_around_Lizard.png
 subsection_Derived_data_products_The__.tex
 figures/horseshoe_fig/horseshoe_fig.png
 Discussion.tex
