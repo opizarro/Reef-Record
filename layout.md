@@ -14,6 +14,7 @@ figures/match_4_along/match_4_along.png
 figures/match_5_across/match_5_across.png
 We_acquire_still_images_stereo__.tex
 begin_table_label_tab_SurveyStats__.tex
+figures/horseshoe_circle01_201404_16_LCDensity/horseshoe_circle01_201404_16_LCDensity.png
 figures/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted/r20150519_011620_lizard_d2_011_horse_shoe_circle01_links-cropped_nan_deleted.png
 Using_the_estimated_path_we__.tex
 figures/Screenshot 2015-09-29 19.28.13/Screenshot 2015-09-29 19.28.13.png
