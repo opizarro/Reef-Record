@@ -18,7 +18,7 @@ figures/horseshoe_circle01_201404_16_LCDensity2/horseshoe_circle01_201404_16_LCD
 Using_the_estimated_path_we__.tex
 figures/Screenshot 2015-09-29 19.28.13/Screenshot 2015-09-29 19.28.13.png
 figures/Screenshot 2015-09-29 19.28.40/Screenshot 2015-09-29 19.28.40.png
-figures/six_reefrecords_samples_texture1/six_reefrecords_samples_texture1.png
+figures/six_reefrecords_samples_texture1/six_reefrecord_samples_texture_mk2.png
 figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy.png
 subsection_Repeatability_for_monitoring_purposes__.tex
 figures/sites_around_Lizard/Screen Shot 2016-02-15 at 11.42.32 AM.png
