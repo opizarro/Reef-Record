@@ -1,6 +1,6 @@
 
 % SBW: This assumes that there is no overlap in the line when wound around the drum.  Not sure if it's worth mentioning this as an assumption.
-For a drum of radius $R$ and angle $\alpha$ along the circumference of the drum, the tip of the line is located at polar coordinates $r$, $\phi$:  
+For a drum (Fig. \ref{fig:geometry}) of radius $R$ and angle $\alpha$ along the circumference of the drum, the tip of the line is located at polar coordinates $r$, $\phi$:  
 \begin{equation}
 r = R\cdot\sqrt{1+\alpha^2} \\
 \phi = \alpha - \arctan{\alpha} 
@@ -10,7 +10,7 @@ The outer boundary of the involute, $r$, grows in a near linear fashion with the
 L=\frac{R}{2}\cdot\alpha^2,
 \end{equation}
 growing quadratically with the number of revolutions. 
-From a survey design point of view, the choice of drum diameter and length of line, $M$, determine the number of revolutions needed to unwind the line as well as the path length. Together with the swimming speed this determines the duration of a deployment. The final radius $r_M$ is given by the hypotenuse of the right angle triangle formed by the drum radius and the line extended at right angles, $r_M = \sqrt{M^2 + R^2}$ and therefore the total angle swept to unwind all the line off the drum is 
+From a survey design point of view, the choice of drum diameter and length of line, $M$, determine the number of revolutions needed to unwind the line as well as the path length. For the purposes of this model we have assumed the line thickness is negligible compared to $R$ and therefore does not affect the effective radius and number of turns around the drum. Together with the swimming speed this determines the duration of a deployment. The final radius $r_M$ is given by the hypotenuse of the right angle triangle formed by the drum radius and the line extended at right angles, $r_M = \sqrt{M^2 + R^2}$ and therefore the total angle swept to unwind all the line off the drum is 
 \begin{equation}
 \alpha_M = \sqrt{\left(\frac{r_M}{R}\right)^2 - 1}
 \end{equation}
