@@ -5,6 +5,7 @@ figures/FOV_triangle mod/FOV_triangle mod.png
 Materials and Procedures.tex
 figures/geometry - Drawing 1 illustrator mod/geometry - Drawing 1 illustrator mod.png
 subsection_Materials_Materials_includes_expendible__.tex
+figures/spiral2/spiral2.png
 figures/_DSC0002/_DSC0002.jpg
 subsection_Procedures_A_stepwise_description__.tex
 figures/_DSC0053/_DSC0053.jpg
