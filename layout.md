@@ -2,10 +2,10 @@ abstract.tex
 introduction.tex
 section_Materials_and_Procedures_label__.tex
 figures/FOV_triangle mod/FOV_triangle mod.png
+figures/spiral2/spiral1.png
 Materials and Procedures.tex
 figures/geometry - Drawing 1 illustrator mod/geometry - Drawing 1 illustrator mod.png
 subsection_Materials_Materials_includes_expendible__.tex
-figures/spiral2/spiral1.png
 figures/_DSC0002/_DSC0002.jpg
 subsection_Procedures_A_stepwise_description__.tex
 figures/_DSC0053/_DSC0053.jpg
