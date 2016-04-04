@@ -25,7 +25,6 @@ figures/six_reefrecords_samples_texture1/six_reefrecord_samples_texture_mk2.png
 figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy_mk2.png
 subsection_Revisiting_sites_for_monitoring__.tex
 figures/sites_around_Lizard/lizard.png
-subsection_Derived_data_products_Systematic__.tex
 figures/horseshoe_fig/horseshoe_fig.png
 Discussion.tex
 section_Comments_and_Recommendations_Real__.tex
