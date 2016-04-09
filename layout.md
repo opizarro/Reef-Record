@@ -22,8 +22,8 @@ Using_the_estimated_path_we__.tex
 figures/Screenshot 2015-09-29 19.28.13/composer_horseshoe_049_201410_texture.png
 figures/Screenshot 2015-09-29 19.28.40/composer_horseshoe_049_201410_depth.png
 figures/six_reefrecords_samples_texture1/six_reefrecord_samples_texture_mk2.png
+figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy_mk2.png
 subsection_Revisiting_sites_for_monitoring__.tex
 Discussion.tex
 section_Comments_and_Recommendations_Real__.tex
-figures/six_reefrecord_samples_bathy/six_reefrecord_samples_bathy_mk2.png
 figures/sites_around_Lizard/lizard.png
